@@ -1,0 +1,4 @@
+[build]
+  base    = "frontend/my-app"
+  command = "npm run build"
+  publish = "dist"   # or "build" if that's your output folder
